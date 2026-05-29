@@ -26,11 +26,6 @@ The system tracks user performance and provides results based on the typing test
 * Java Swing
 * Object-Oriented Programming
 
-## Application Interface
-
- 
-
-
 ## Learning Outcomes
 
 This project helped in understanding:
